@@ -1,1 +1,1 @@
-
+The purpose of this repository is to showcase a journey of my skills, applying real world data to simple projects, mostly in python. i will cover data manipulation, machine learning using packages such as keras and pytorch, deep learning and many more. My interest include election modelling, real estate, finacial modelling and whatver else i can get my hands on. please enjoy!
